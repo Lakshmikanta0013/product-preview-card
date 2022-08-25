@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/productpreviewcard-JuX4f2p2p8))
+- Live Site URL: [Live Site URL](https://product-preview-card-one-rho.vercel.app/)
 
 
 ### Built with
