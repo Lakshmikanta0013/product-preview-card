@@ -23,10 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-###Desktop Videw
+-Desktop Videw
 
 ![Desktop View](./screenshot/screenshot-desktop.png)
-###Mobile View
+
+-Mobile View
 
 ![Mobile View](./screenshot/screenshot-mobile.png)
 
