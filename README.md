@@ -22,9 +22,12 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-####Desktop Videw
+
+###Desktop Videw
+
 ![Desktop View](./screenshot/screenshot-desktop.png)
-####Mobile View
+###Mobile View
+
 ![Mobile View](./screenshot/screenshot-mobile.png)
 
 ### Links
